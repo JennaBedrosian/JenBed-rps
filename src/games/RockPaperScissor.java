@@ -3,6 +3,8 @@ package games;
 import java.util.Random;
 import java.util.Scanner;
 
+//FIXME: maybe you had a package called "games.rockpaperscissor" before, but it's gone now.
+//FIXME: Tip: You don't have to do an import if the used class is in the same package
 import static games.rockpaperscissor.Fist.*;
 
 public class RockPaperScissor {
